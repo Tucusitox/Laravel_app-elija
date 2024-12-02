@@ -28,7 +28,7 @@ PASO N5 ---------------------------------------------------------------
 
 Instalar los siguientes paquetes:
 Primero: npm install puppeteer
-Segundo: omposer require spatie/browsershot
+Segundo: composer require spatie/browsershot
 
 PASO N6 ---------------------------------------------------------------
 
