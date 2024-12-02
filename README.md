@@ -5,7 +5,7 @@ PASO N1 ---------------------------------------------------------
 Abre el XAMPP y activa los Serrvicios apache y mysql.
 
 Despúes configure su nuevo archivo ".env" correctamente en el puerto 3306 
-y el nombre de la base de datos que es "modulo_supervision" con el gestor "Mysql".
+y el nombre de la base de datos que es "app_elija" con el gestor "Mysql".
 
 Para enviar correos debe agregar al .env tu credenciales de servidor de correo
 o datos de una cuenta con clave de aplicacion. 
